@@ -1,0 +1,21 @@
+.botones{
+    box-sizing:border-box;
+    width: 15%;
+    max-width: 10%;    
+    overflow: hidden;
+        height: 25px;
+}
+
+.more{
+    height: 25px;
+}
+
+.container{
+    height: 5%;
+    /* margin: 0 auto; */
+    /* overflow: hidden; */
+    /* position: absolute; */
+    width: 100%;
+    /*display: inline;*/
+}
+
